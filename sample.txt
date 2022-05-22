@@ -3,5 +3,7 @@ public class Sample {
         System.out.println("Hello");
         System.out.println("Hello World");
         System.out.println("Hi Everyone");
+        System.out.println("weekend");
+        
     }
 }
